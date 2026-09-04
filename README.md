@@ -108,7 +108,7 @@ The Skill generated two main outputs:
 
 A separate Excel file containing the high-confidence corrections.
 
-[View the cleaned dataset]([outputs/Data_Quality_Radar_Cleaned.xlsx](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/cleaned%20dataset.png?raw=true))
+![cleaned dataset](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/cleaned%20dataset.png?raw=true)
 
 ### 2. Data Quality Report
 
