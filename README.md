@@ -4,7 +4,7 @@ A beginner-friendly Claude Skill for detecting, safely cleaning, and reporting c
 
 > A beginner-friendly Claude Skill for detecting, safely cleaning, and reporting common data-quality issues in Excel datasets.
 
-![Project Overview](screenshots/04-messy-dataset.png)
+![Project Overview](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/Screenshot%202026-09-04%20005621.png?raw=true)
 
 ## 📌 About the Project
 
@@ -96,7 +96,7 @@ I intentionally created a messy sales dataset containing multiple data-quality p
 
 ### Input
 
-![Messy Dataset](screenshots/04-messy-dataset.png)
+![image alt](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/messy%20dataset.png?raw=true)
 
 ---
 
