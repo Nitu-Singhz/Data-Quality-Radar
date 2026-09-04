@@ -96,7 +96,7 @@ I intentionally created a messy sales dataset containing multiple data-quality p
 
 ### Input
 
-![image alt][messy dataset](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/messy%20dataset.png?raw=true)
+![messy dataset](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/messy%20dataset.png?raw=true)
 
 ---
 
