@@ -6,6 +6,8 @@ A beginner-friendly Claude Skill for detecting, safely cleaning, and reporting c
 
 ![Project Overview](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/Screenshot%202026-09-04%20005621.png?raw=true)
 
+[PROJECT OVERVIEW PPT](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/Data-Quality-Radar.pptx.pptx)
+
 ## 📌 About the Project
 
 **Data Quality Radar** is a mini project I built as part of the **Codebasics "Claude in 60 Minutes" Challenge**.
@@ -95,7 +97,7 @@ I intentionally created a messy sales dataset containing multiple data-quality p
 * Inconsistent category capitalization
 
 ### Input
-
+[messy dataset.png](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/messy%20dataset.png)
 ![messy dataset](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/messy%20dataset.png?raw=true)
 
 ---
@@ -108,6 +110,7 @@ The Skill generated two main outputs:
 
 A separate Excel file containing the high-confidence corrections.
 
+[cleaned dataset.png](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/cleaned%20dataset.png)
 ![cleaned dataset](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/cleaned%20dataset.png?raw=true)
 
 ### 2. Data Quality Report
@@ -151,31 +154,29 @@ This was one of my key learnings from the project:
 
 > **AI automation should also be tested and validated — not just executed.**
 
-![Testing and Improvement](screenshots/07-testing-and-improvement.png)
-
 ---
 
 ## 📸 Project Screenshots
 
 ### Skill Creation
 
-![Skill Creation](screenshots/02-skill-creation.png)
+![Skill Creation]([screenshots/02-skill-creation.png](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/c1045662b7ce3ab3a6d7f5e63cbd3483de188d41/skills%20creation%20prompt.png))
 
 ### Skill Workflow
 
-![Skill Workflow](screenshots/03-skill-workflow.png)
+![Skill Workflow]([screenshots/03-skill-workflow.png](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/c1045662b7ce3ab3a6d7f5e63cbd3483de188d41/skills%20workflow.png))
 
 ### Messy Input Data
 
-![Messy Dataset](screenshots/04-messy-dataset.png)
+![Messy Dataset]([screenshots/04-messy-dataset.png](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/c1045662b7ce3ab3a6d7f5e63cbd3483de188d41/messy%20dataset.png))
 
 ### Cleaned Output
 
-![Cleaned Dataset](screenshots/05-cleaned-dataset.png)
+![Cleaned Dataset]([screenshots/05-cleaned-dataset.png](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/c1045662b7ce3ab3a6d7f5e63cbd3483de188d41/cleaned%20dataset.png))
 
 ### Quality Report
 
-![Quality Report](screenshots/06-quality-report.png)
+![Quality Report]([screenshots/06-quality-report.png](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/a636a18e2304d79d444b27067fd1b9edd3f9b9d5/quality%20report.png))
 
 ---
 
@@ -202,7 +203,7 @@ data-quality-radar/
 │   ├── 04-messy-dataset.png
 │   ├── 05-cleaned-dataset.png
 │   ├── 06-quality-report.png
-│   └── 07-testing-and-improvement.png
+│   
 │
 ├── presentation/
 │   └── Data_Quality_Radar_Presentation.pptx
