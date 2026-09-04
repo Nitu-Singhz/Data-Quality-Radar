@@ -160,23 +160,23 @@ This was one of my key learnings from the project:
 
 ### Skill Creation
 
-![Skill Creation]([screenshots/02-skill-creation.png](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/c1045662b7ce3ab3a6d7f5e63cbd3483de188d41/skills%20creation%20prompt.png))
+![image alt](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/skills%20creation%20prompt.png?raw=true)
 
 ### Skill Workflow
 
-![Skill Workflow]([screenshots/03-skill-workflow.png](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/c1045662b7ce3ab3a6d7f5e63cbd3483de188d41/skills%20workflow.png))
+![image alt](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/skills%20workflow.png?raw=true)
 
 ### Messy Input Data
 
-![Messy Dataset]([screenshots/04-messy-dataset.png](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/c1045662b7ce3ab3a6d7f5e63cbd3483de188d41/messy%20dataset.png))
+![image alt](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/messy%20dataset.png?raw=true)
 
 ### Cleaned Output
 
-![Cleaned Dataset]([screenshots/05-cleaned-dataset.png](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/c1045662b7ce3ab3a6d7f5e63cbd3483de188d41/cleaned%20dataset.png))
+![image alt](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/cleaned%20dataset.png?raw=true)
 
 ### Quality Report
 
-![Quality Report]([screenshots/06-quality-report.png](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/a636a18e2304d79d444b27067fd1b9edd3f9b9d5/quality%20report.png))
+![Quality Report](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/quality%20report.png?raw=true)
 
 ---
 
