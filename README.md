@@ -120,7 +120,7 @@ A report containing:
 * Missing values
 * Issues requiring manual review
 
-[View the quality report](outputs/Data_Quality_Radar_Report.xlsx)
+[View the quality report]([outputs/Data_Quality_Radar_Report.xlsx](https://github.com/Nitu-Singhz/Data-Quality-Radar/blob/main/Data_Quality_Radar_Test_Data_quality_report.xlsx))
 
 ---
 
